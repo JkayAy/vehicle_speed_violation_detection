@@ -1,0 +1,11 @@
+dash
+dash-bootstrap-components
+dash-core-components
+dash-table
+pandas
+plotly
+requests
+python-dotenv  # For environment variable management
+
+#python dashboard/main.py
+#Dash is running on http://127.0.0.1:8050/

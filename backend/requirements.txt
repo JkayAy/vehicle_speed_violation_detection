@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+easyocr
+numpy
+pydantic
+dash
+dash-bootstrap-components
+gunicorn
+python-dotenv  # For environment variable management
+
+# sqlite3 is part of the Python standard library, no need to list it
+
+#uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
+#API Documentation: http://localhost:8000/docs to verify the endpoints and check if the API is running on browser
+#openAPIUI: http://localhost:8000/openapi.json
+
